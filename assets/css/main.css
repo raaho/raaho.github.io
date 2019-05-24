@@ -597,7 +597,7 @@ footer.border-top {
         margin: 0
     }
     .header .nav-box nav {
-        top: 5px!important
+        top: 18px!important
     }
     .header .logo-box,
     .header .nav-box,
@@ -729,6 +729,10 @@ footer.border-top {
     }
 }
 
+.p-3{
+    padding: 0.3rem !important;
+}
+
 @media only screen and (max-device-width:1280px) {
     .jumbotron .container p {
         display: inline-block;
@@ -749,7 +753,7 @@ footer.border-top {
         margin: 0
     }
     .header .nav-box nav {
-        top: 0px!important
+        top: 10px!important
     }
     .header .logo-box,
     .header .nav-box,
@@ -1058,7 +1062,7 @@ footer.border-top {
         margin: 0
     }
     .header .nav-box nav {
-        top: 0px!important
+        top: 10px!important
     }
     .header .logo-box,
     .header .nav-box,
@@ -1319,7 +1323,7 @@ footer.border-top {
         margin: 0
     }
     .header .nav-box nav {
-        top: 0px!important
+        top: 10px!important
     }
     .header .logo-box,
     .header .nav-box,
@@ -1485,7 +1489,7 @@ footer.border-top {
         margin: 0
     }
     .header .nav-box nav {
-        top: 0px!important
+        top: 10px!important
     }
     .header .logo-box,
     .header .nav-box,
