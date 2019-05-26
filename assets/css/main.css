@@ -520,7 +520,7 @@ footer.border-top {
         margin: 0
     }
     .header .nav-box nav {
-        top: 18px!important
+        top: 5px!important
     }
     .header .logo-box,
     .header .nav-box,
@@ -540,7 +540,6 @@ footer.border-top {
         width: 25%;
         padding-left: 0;
         text-align: right;
-        top: 14px;
     }
     .header a,
     nav {
@@ -559,7 +558,7 @@ footer.border-top {
         top: 92%
     }
     .go-logo {
-        width: 60px
+        width: 100px
     }
     .jumbotron {
         padding: 10rem 10rem 19rem;
@@ -597,7 +596,7 @@ footer.border-top {
         margin: 0
     }
     .header .nav-box nav {
-        top: 18px!important
+        top: 5px!important
     }
     .header .logo-box,
     .header .nav-box,
@@ -635,7 +634,7 @@ footer.border-top {
         top: 32rem
     }
     .go-logo {
-        width: 60px
+        width: 100px
     }
     .jumbotron {
         padding: 5rem 10rem 14rem;
@@ -673,7 +672,7 @@ footer.border-top {
         margin: 0
     }
     .header .nav-box nav {
-        top: 10px!important
+        top: 0px!important
     }
     .header .logo-box,
     .header .nav-box,
@@ -692,7 +691,8 @@ footer.border-top {
     .header .cta-box {
         width: 25%;
         padding-left: 0;
-        text-align: right
+        text-align: right;
+        top: 0 !important;
     }
     .header a,
     nav {
@@ -711,7 +711,7 @@ footer.border-top {
         top: 23rem
     }
     .go-logo {
-        width: 50px
+        width: 70px !important;
     }
     .jumbotron {
         padding: 3rem 10rem 14rem;
@@ -727,10 +727,6 @@ footer.border-top {
     .jumbotron .container a {
         margin-top: 0
     }
-}
-
-.p-3{
-    padding: 0.3rem !important;
 }
 
 @media only screen and (max-device-width:1280px) {
@@ -829,7 +825,7 @@ footer.border-top {
         margin: 0
     }
     .header .nav-box nav {
-        top: 10px!important
+        top: 0px!important;
     }
     .header .logo-box,
     .header .nav-box,
@@ -848,7 +844,8 @@ footer.border-top {
     .header .cta-box {
         width: 25%;
         padding-left: 0;
-        text-align: right
+        text-align: right;
+        top: 0px!important;
     }
     .header a,
     nav {
@@ -867,7 +864,7 @@ footer.border-top {
         top: 19rem
     }
     .go-logo {
-        width: 50px
+        width: 70px
     }
     .jumbotron {
         padding: 3rem 1rem 14rem;
@@ -939,7 +936,7 @@ footer.border-top {
         margin: 0
     }
     .header .nav-box nav {
-        top: 10px!important
+        top: 0 !important;
     }
     .header .logo-box,
     .header .nav-box,
@@ -958,7 +955,8 @@ footer.border-top {
     .header .cta-box {
         width: 25%;
         padding-left: 0;
-        text-align: right
+        text-align: right;
+        top: 0 !important;
     }
     .header a,
     nav {
@@ -977,7 +975,7 @@ footer.border-top {
         top: 24rem
     }
     .go-logo {
-        width: 50px
+        width: 70px
     }
     .jumbotron {
         padding: 3rem 1rem 14rem;
@@ -1239,7 +1237,7 @@ footer.border-top {
         margin: 0
     }
     .header .nav-box nav {
-        top: 10px!important
+        top: 0px!important;
     }
     .header .logo-box,
     .header .nav-box,
@@ -1259,7 +1257,7 @@ footer.border-top {
         width: 25%;
         padding-left: 0;
         text-align: right;
-        top: 10px;
+        top: 0px!important;
     }
     .header a,
     nav {
@@ -1273,7 +1271,7 @@ footer.border-top {
         padding-top: 0px!important
     }
     .go-logo {
-        width: 50px
+        width: 70px !important;
     }
     .jumbotron .container .display-3 {
         font-size: 2rem!important
@@ -1406,7 +1404,7 @@ footer.border-top {
         margin: 0
     }
     .header .nav-box nav {
-        top: 10px!important
+        top: 0px!important;
     }
     .header .logo-box,
     .header .nav-box,
@@ -1425,7 +1423,8 @@ footer.border-top {
     .header .cta-box {
         width: 25%;
         padding-left: 0;
-        text-align: right
+        text-align: right;
+        top: 0px!important;
     }
     .header a,
     nav {
@@ -1439,7 +1438,7 @@ footer.border-top {
         padding-top: 0px!important
     }
     .go-logo {
-        width: 50px
+        width: 70px !important;
     }
     .jumbotron .container .display-3 {
         font-size: 2rem!important
@@ -1572,7 +1571,7 @@ footer.border-top {
         margin: 0
     }
     .header .nav-box nav {
-        top: 10px!important
+        top: 0px!important;
     }
     .header .logo-box,
     .header .nav-box,
@@ -1591,7 +1590,8 @@ footer.border-top {
     .header .cta-box {
         width: 25%;
         padding-left: 0;
-        text-align: right
+        text-align: right;
+        top: 0px!important;
     }
     .header a,
     nav {
@@ -1605,7 +1605,7 @@ footer.border-top {
         padding-top: 0px!important
     }
     .go-logo {
-        width: 50px
+        width: 60px !important;
     }
     .jumbotron .container .display-3 {
         font-size: 2rem!important
@@ -1659,7 +1659,7 @@ footer.border-top {
         margin: 0
     }
     .header .nav-box nav {
-        top: 10px!important
+        top: 0px!important
     }
     .header .logo-box,
     .header .nav-box,
@@ -1678,7 +1678,8 @@ footer.border-top {
     .header .cta-box {
         width: 25%;
         padding-left: 0;
-        text-align: right
+        text-align: right;
+        top: 0 !important;
     }
     .header a,
     nav {
@@ -1692,7 +1693,7 @@ footer.border-top {
         padding-top: 0px!important
     }
     .go-logo {
-        width: 50px
+        width: 60px !important;
     }
     .jumbotron .container .display-3 {
         font-size: 2rem!important
@@ -1742,7 +1743,7 @@ footer.border-top {
         margin: 0
     }
     .header .nav-box nav {
-        top: 10px!important
+        top: 0px!important;
     }
     .header .logo-box,
     .header .nav-box,
@@ -1761,7 +1762,8 @@ footer.border-top {
     .header .cta-box {
         width: 25%;
         padding-left: 0;
-        text-align: right
+        text-align: right;
+        top: 0px!important;
     }
     .header a,
     nav {
