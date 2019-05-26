@@ -1321,7 +1321,7 @@ footer.border-top {
         margin: 0
     }
     .header .nav-box nav {
-        top: 10px!important
+        top: 0px!important
     }
     .header .logo-box,
     .header .nav-box,
@@ -1340,7 +1340,8 @@ footer.border-top {
     .header .cta-box {
         width: 25%;
         padding-left: 0;
-        text-align: right
+        text-align: right;
+        top: 0 !important;
     }
     .header a,
     nav {
@@ -1354,7 +1355,7 @@ footer.border-top {
         padding-top: 0px!important
     }
     .go-logo {
-        width: 50px
+        width: 70px
     }
     .jumbotron .container .display-3 {
         font-size: 2rem!important
