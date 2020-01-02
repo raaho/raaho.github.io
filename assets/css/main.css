@@ -83,7 +83,7 @@ body {
 
 .jumbotron .container .display-3 {
     font-size: 3rem;
-    color: #0F2D80;
+    color: #030001;
     font-family: 'IBM Plex Sans', sans-serif!important
 }
 
@@ -243,7 +243,7 @@ body {
 }
 
 .about-go .title-container h2 {
-    color: #0F2D80;
+    color: #030001;
     font-size: 2rem;
     font-weight: 600
 }
